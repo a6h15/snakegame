@@ -16,10 +16,10 @@ This is a simple **Snake Game** built using Python's `turtle` module. It feature
 
 ## 📸 Screenshots
 
-| Gameplay | Game Over |
+| Game Over |
 |----------|-----------|
 
-
+<img src="ss/gamess1.png" alt="Game Over Screenshot" width="500"/>
 
 ---
 
