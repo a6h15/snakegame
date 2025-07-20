@@ -19,7 +19,7 @@ This is a simple **Snake Game** built using Python's `turtle` module. It feature
 | Game Over |
 |----------|-----------|
 
-<img src="ss/gamess1.png" alt="Game Over Screenshot" width="500"/>
+<img src="ss/gamss1.png" alt="Game Over Screenshot" width="500"/>
 
 ---
 
