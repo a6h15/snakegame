@@ -25,7 +25,7 @@ This is a simple **Snake Game** built using Python's `turtle` module. It feature
 
 ### 📹 Video Demo
 
-https://github.com/user-attachments/assets/f682156f-824e-40de-83f9-9722dcf3413e
+[https://github.com/user-attachments/assets/f682156f-824e-40de-83f9-9722dcf3413e](https://github.com/user-attachments/assets/4279f8d3-3188-4303-95d7-50598eae7d68)
 
 
 ## 🛠️ Requirements
